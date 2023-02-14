@@ -1,0 +1,7 @@
+print("What is your age ??",end=' ')
+age=input("Enter your age ")
+print("What is your weight ??",end=' ')
+weight=input("Enter your weight")
+print("What is your height ??",end=' ')
+height=input("Enter your height")
+print(f"Your age is {age} , your weight is {weight} , your height is {height}")

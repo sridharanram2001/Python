@@ -1,0 +1,5 @@
+x=input("How are you ??")
+print(f"So you are {x} ")
+y=input("How old are you ??")
+print(f"So you are {y} years old") 
+print(f"So you are {x} and your age is {y}")
